@@ -33,6 +33,11 @@ This Flask application performs Optical Character Recognition (OCR) on Indonesia
    API_KEY=your-api-key  # (Optional, for API access control)
    ```
 
+4. Visit the random keygenerator website: [Visit Website Here](https://randomkeygen.com/)
+  ```
+  use 256-bit Hex
+  ```
+
 ## Configuration
 
 - Update the environment variables in `.env` API_KEY=your-api-key for static API Key authentication.
